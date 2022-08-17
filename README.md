@@ -8,18 +8,15 @@ My name is Ivo and I'm a computer engineering student from Portugal. Here's some
 - **CMS Developer and IT Technician at Infonetmedia Ltd, Internship** [Feb – Jul 2017, Portsmouth, England]
 
 🎓 Education:
-- **Bachelor’s Degree in Computer Engineering, IPL - Polytechnic of Leiria**
-  - Relevant Coursework: IoT – Internet Technologies, Algorithms and Data Structures and Artificial Intelligence [Sep 2020 – currently]
-- **Short Cycle (TeSP) in Web Development and Multimedia, IPL - Polytechnic of Leiria**
-  - Relevant Coursework: Web Server Programming, Client-Server Web Programming, and Web Portal [Sep 2018 – Jul 2020]
-- **IT Equipment Management Technician, Val do Rio Vocational School**
-  - Relevant Coursework: Programming fundamentals and Microprocessor Architecture and Programming. [Sep 2014 – Jul 2017]
+- **Bachelor’s Degree in Computer Engineering, IPL - Polytechnic of Leiria** [Sep 2020 – currently]
+  - Relevant Coursework: IoT – Internet Technologies, Algorithms and Data Structures and Artificial Intelligence 
+- **Short Cycle (TeSP) in Web Development and Multimedia, IPL - Polytechnic of Leiria** [Sep 2018 – Jul 2020]
+  - Relevant Coursework: Web Server Programming, Client-Server Web Programming, and Web Portal 
+- **IT Equipment Management Technician, Val do Rio Vocational School** [Sep 2014 – Jul 2017]
+  - Relevant Coursework: Programming fundamentals and Microprocessor Architecture and Programming. 
 
 🌱 Interests:
-- Developing.
-- Reading
-- Exercise
-- Nature
+- Develop | Read | Exercise | Nature
 
 💬 Reach me by email or LinkedIn! ivoafonsobispo@protonmail.com | [linkedin.com/in/ivoafonsobispo](http://linkedin.com/in/ivoafonsobispo)
 
