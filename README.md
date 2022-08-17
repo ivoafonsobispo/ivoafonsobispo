@@ -4,15 +4,15 @@ My name is Ivo and I'm a computer engineering student from Portugal. Here's some
 
 ⚡ Work experience:
 - **Junior Full Stack Developer at WayAcross, Internship** [Feb – Jul 2020, Leiria, Portugal]
-- **Assistant Professor and Tutor at University of Portsmouth ** [Jun – Jun 2017, Portsmouth, England]
+- **Assistant Professor and Tutor at University of Portsmouth** [Jun – Jun 2017, Portsmouth, England]
 - **CMS Developer and IT Technician at Infonetmedia Ltd, Internship** [Feb – Jul 2017, Portsmouth, England]
 
 🎓 Education:
 - **Bachelor’s Degree in Computer Engineering, IPL - Polytechnic of Leiria**
   - Relevant Coursework: IoT – Internet Technologies, Algorithms and Data Structures and Artificial Intelligence [Sep 2020 – currently]
-- **Short Cycle (TeSP) in Web Development and Multimedia, IPL - Polytechnic of Leiria **
+- **Short Cycle (TeSP) in Web Development and Multimedia, IPL - Polytechnic of Leiria**
   - Relevant Coursework: Web Server Programming, Client-Server Web Programming, and Web Portal [Sep 2018 – Jul 2020]
-- **IT Equipment Management Technician, Val do Rio Vocational School **
+- **IT Equipment Management Technician, Val do Rio Vocational School**
   - Relevant Coursework: Programming fundamentals and Microprocessor Architecture and Programming. [Sep 2014 – Jul 2017]
 
 🌱 Interests:
