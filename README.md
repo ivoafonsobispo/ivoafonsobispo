@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ivo and I'm a computer engineering student from Portugal. Here's some info about me!
+My name is Ivo and I'm a Computer Engineering Student @ IPL - Polytechnic of Leiria from Portugal. Here's some info about me!
 
 ⚡ Work experience:
 - **Junior Full Stack Developer at WayAcross, Internship** [Feb – Jul 2020, Leiria, Portugal]
