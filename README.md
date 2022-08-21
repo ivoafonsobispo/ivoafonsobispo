@@ -18,7 +18,7 @@ My name is Ivo and I'm a Computer Engineering Student @ IPL - Polytechnic of Lei
 🌱 Interests:
 - Develop | Read | Exercise | Nature
 
-💬 Reach me by email or LinkedIn! ivoafonsobispo@protonmail.com | [linkedin.com/in/ivoafonsobispo](http://linkedin.com/in/ivoafonsobispo)
+💬 Reach me by email or LinkedIn! ivoafobispo@gmail.com | [linkedin.com/in/ivoafonsobispo](http://linkedin.com/in/ivoafonsobispo)
 
 <!--
 **ivoafonsobispo/ivoafonsobispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
