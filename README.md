@@ -9,7 +9,7 @@ My name is Ivo and I'm a Computer Engineering Student @ IPL - Polytechnic of Lei
 
 🎓 Education:
 - **Bachelor’s Degree in Computer Engineering, IPL - Polytechnic of Leiria** [Sep 2020 – currently]
-  - Relevant Coursework: IoT – Internet Technologies, Algorithms and Data Structures and Artificial Intelligence 
+  - Relevant Coursework: Enterprise Application Architecture, Artificial Intelligence and Algorithms and Data Structures. 
 - **Short Cycle (TeSP) in Web Development and Multimedia, IPL - Polytechnic of Leiria** [Sep 2018 – Jul 2020]
   - Relevant Coursework: Web Server Programming, Client-Server Web Programming, and Web Portal 
 - **IT Equipment Management Technician, Val do Rio Vocational School** [Sep 2014 – Jul 2017]
