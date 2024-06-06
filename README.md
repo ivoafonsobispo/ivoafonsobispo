@@ -1,5 +1,14 @@
-### Hi 👋
+### Welcome to my GitHub Profile 👋
+I'm Ivo, a Master's student in Computer Engineering and Mobile Computing at Polytechnic of Leiria.
 
-I’m Ivo. I’m doing a Master’s in Computer Engineering and Mobile Computing, and I’m a researcher at CIIC – the Computer Science and Communication Research Centre at Polytechnic of Leiria. I’m working on explainable AI for machine learning models for intrusion detection systems.
+I'm a highly motivated and detail-oriented individual with a strong passion for software architecture and creating great developer experiences. 
+I'm currently looking for an internship to apply my skills and knowledge in a real-world setting.
 
-💬 Email me or LinkedIn! [ivoafobispo@gmail.com](mailto:ivoafobispo@gmail.com) | [linkedin.com/in/ivoafonsobispo](http://linkedin.com/in/ivoafonsobispo)
+#### About me
+With a background as a researcher at CIIC – the Computer Science and Communication Research Centre at Polytechnic of Leiria, I've developed strong skills in AI/ML, Cybersecurity, Dataset Building, and Explainable AI.
+
+#### My interests
+I'm passionate about software architecture, great tooling and clean code. I'm proficient in [Go, Java and SQL]. When I'm not coding, you can find me reading or bouldering.
+
+#### Get in touch
+Let's connect 💬 Email me or LinkedIn [ivoafobispo@gmail.com](mailto:ivoafobispo@gmail.com) | [linkedin.com/in/ivoafonsobispo](http://linkedin.com/in/ivoafonsobispo). If you're interested in discussing potential internship opportunities or collaborating on a project, I'd love to hear from you!
