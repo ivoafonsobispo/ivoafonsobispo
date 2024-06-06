@@ -4,6 +4,9 @@ I'm Ivo, a Master's student in Computer Engineering and Mobile Computing at Poly
 I'm a highly motivated and detail-oriented individual with a strong passion for software architecture and creating great developer experiences. 
 I'm currently looking for an internship to apply my skills and knowledge in a real-world setting.
 
+#### About me
+With a background as a researcher at CIIC – the Computer Science and Communication Research Centre at Polytechnic of Leiria, I've developed strong skills in AI/ML, Cybersecurity, Dataset Building, and Explainable AI.
+
 #### My interests
 I'm passionate about software architecture, great tooling and clean code. I'm proficient in Java, Go and SQL. 
 When I'm not coding, you can find me reading or bouldering.
