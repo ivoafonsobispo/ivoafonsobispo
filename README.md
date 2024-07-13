@@ -1,5 +1,4 @@
 ### Welcome to my GitHub Profile 👋
-Hi, I’m Ivo. I’m a driven and detail-oriented individual with a passion for software engineering and creating great developer experience.
 #### About me
 I've got a Master's and Bachelor's in Computer Engineering from Polytechnic of Leiria, and I've also worked as a Researcher at CIIC. That's given me a solid foundation in software engineering, architecture, dataset building and AI/ML.
 #### My interests
