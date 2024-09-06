@@ -1,22 +1,22 @@
-### Full Stack Engineer
+## Full Stack Engineer
 
 - 🔭 Currently working at Valtech
 - 🎓 M.Sc. and B.Sc. in Computer Engineering, Polytechnic of Leiria
 - 🧪 Former Researcher at CIIC
 
-#### Skills
+### Skills
 
 - Full stack engineering
 - Software architecture
 - Dataset building
 
-#### Interests
+### Interests
 
 - Scalability
 - Effective tooling
 - Developer experience
 
-#### Contact
+### Contact
 
 - 📧 [ivoafobispo@gmail.com](mailto:ivoafobispo@gmail.com)
 - 💼 [LinkedIn](http://linkedin.com/in/ivoafonsobispo)
