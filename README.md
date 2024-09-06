@@ -1,4 +1,3 @@
-## Welcome to my GitHub Profile 👋
 ### Full Stack Engineer
 
 - 🔭 Currently working at Valtech
