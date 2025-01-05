@@ -1,5 +1,5 @@
 <samp>
-hey 👋
+hey 👋 <br><br>
 
 i'm a full-stack engineer and former researcher specializing in backend and AI/ML engineering. i build systems that handle complex logic behind APIs, so the frontend can focus on great user experiences. i strive for efficient, scalable, and reliable software.
 
