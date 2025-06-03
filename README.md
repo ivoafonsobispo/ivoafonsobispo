@@ -1,1 +1,1 @@
-AI Engineer with 3+ years of experience building AI microservices using LangChain, OpenAI, and cloud-native tools. Specialized in RAG-based recommendation systems, LLMOps, and NLP. Proven record of driving cross-functional AI projects from research to production.
+AI Software Engineer with 3+ years of experience building AI microservices using LangChain, OpenAI, and cloud-native tools. Specialized in RAG-based recommendation systems, LLMOps, and NLP. Proven record of driving cross-functional AI projects from research to production.
